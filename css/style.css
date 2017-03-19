@@ -1,0 +1,50 @@
+.profile-pic{
+	max-width: 100%
+}
+/*this is for my profile pic*/
+.footer {
+	display: inline-block;
+}
+.social-icon .fa:hover {
+	color: red;
+}
+.formsearch {
+		padding-left: 630px;
+}
+.card {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.navbar {
+	font-family: 'Exo', sans-serif;
+}
+.dropdown-toggle {
+	font-family: 'Exo', sans-serif;
+}
+.col-md-8 {
+	font-family: 'Fjalla One', sans-serif;
+}
+.card-block {
+	background-color: #000000;
+}
+.social-icon {
+	background-color: #000000;
+}
+.gif {
+	margin-left: 0%;
+	max-width: 30px;
+	margin-top: 100%;
+}
+.heading {
+	color: #666666;
+	margin-left: 40%;
+	font-size: 500%;
+	font-family: 'Tangerine', cursive;
+	margin-top: 8%;
+}
+.aboutpage {
+	background-size: cover;
+}
+.textbody {
+	color: #737373;
+}
